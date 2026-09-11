@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm SARMAD FARID</h1>
-<h3 align="center">Flutter Developer | Clean Architecture Enthusiast | Mobile Solutions Builder</h3>
+<h1 align="center">Hi 👋, I'm Sarmad Farid</h1>
+<h3 align="center">Flutter Developer | I Design & Ship Complete Production Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=18&pause=1500&color=0E75B6&center=true&vCenter=true&width=500&lines=Offline-First+Architecture;Clean+Architecture+%2B+Riverpod;Currently+building+Nigraan+%F0%9F%8F%A5" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SarmadFarid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Sarmad Farid" />
@@ -9,85 +13,56 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Focus**: Building scalable, production-ready mobile apps with **Clean Architecture** & **MVVM**
-- 🧠 **State Management**: Hands-on with **Riverpod**, **GetX**, and **Provider**
-- 🔥 **Backend Integration**: Firebase (Auth, Firestore, Notifications), REST APIs with **Dio**
-- 💳 **Real-World Features**: Stripe Payments, Google Maps with clustering, real-time chat
-- ⚡ **Performance**: Local caching strategies, optimized memory management, smooth 60fps UIs
-- 🌐 **Versatility**: Web fundamentals (HTML, CSS, Tailwind, Bootstrap, JS) + PHP/MySQL backend basics
+- 🔭 **Focus:** Building scalable, production-ready apps with **Clean Architecture** & **MVVM**
+- 🧠 **State Management:** Riverpod, GetX, Provider
+- 🔥 **Backend & Real-Time:** Firebase (Auth, Firestore, Notifications), REST APIs with Dio, Laravel
+- ⚡ **Real-World Features:** Offline-first sync, Google Maps clustering, real-time chat, local databases
+- 🌐 **Also comfortable with:** PHP/MySQL, basic web front-end (HTML/CSS/JS)
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠 Core Stack
 
-#### 🟦 Primary Stack — Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-#### 🔄 State Management
-<p align="left">
   <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-#### 🏗 Architecture & Patterns
-<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-444444?style=for-the-badge&logo=abstract&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-555555?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dependency_Injection-666666?style=for-the-badge&logo=stackshare&logoColor=white" />
-</p>
-
-#### 🟨 Web & Backend Foundations
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### ⚙️ Tools & Networking
-<p align="left">
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+ 
 ---
 
 ### 💼 Experience
 
-**Flutter Developer — AI 3D Scanning Solution** *(Jan 2026)*
-- Implemented Google Maps with marker clustering for large property datasets
-- Integrated Stripe payment gateway for secure in-app transactions
-- Built real-time notification system for property listings and user activity
+**Flutter Developer — AI 3D Scanning Solution** *(Jan 2026 – Apr 2026)*
+- Built a real estate marketplace app with GetX and Clean Architecture
+- Implemented Google Maps clustering, keeping the map smooth with 500+ property listings
+- Built a real-time notification system for listings and user activity
 
 **Flutter Developer Intern — JEUX Developers** *(Oct 2025 – Jan 2026)*
-- Converted Figma designs into pixel-perfect responsive UIs using ScreenUtil
+- Converted Figma designs into responsive Flutter UIs using ScreenUtil
 - Integrated REST APIs and third-party SDKs
 
 ---
 
 ### 🏆 Featured Projects
 
+**🏥 Nigraan** — a complete pharmacy management platform, designed and built independently: a Windows billing app (works fully offline), an Android app for remote monitoring, and the backend connecting them.
+Live on the Microsoft Store · Android app in Google Play testing
+→ [nigraansoftware.com](https://nigraansoftware.com)
+
 | Project | Description | Key Tech |
 |---|---|---|
 | 🎬 **CineFlow** | Movie streaming app with offline support | Clean Arch, Hive, Dio, TMDB API |
-| 🍳 **FrameWise** | Video frame extraction & analysis tool | MD5 hashing, local caching, file handling |
 | 🍔 **CookMade** | Real-time home-cooked food marketplace | Firebase, Firestore streams, GetX |
 | 🛒 **Grocery Platform** | Full-stack e-commerce app | Flutter + PHP/MySQL, cart & auth flows |
-| 💊 **Pharmacy Pro** | POS & inventory management system | Google Maps, Thermal printing, analytics |
+| 🎞️ **FrameWise** | Video frame extraction & analysis tool | MD5 hashing, local caching, file handling |
 
 ---
 
